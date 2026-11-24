@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Plazas públicas - Comunitat Valenciana",
+  "type": "object",
+  "required": ["actualizado", "plazas"],
+  "properties": {
+    "actualizado": { "type": "string", "format": "date-time" },
+    "plazas": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "titulo", "organismo", "fecha_publicacion", "estado", "url_oficial", "fuente", "extraido_el"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string" },
+          "titulo": { "type": "string" },
+          "organismo": { "type": "string" },
+          "ambito": { "enum": ["estatal", "autonomico", "provincial", "local", "universidad", "otro"] },
+          "provincia": { "type": ["string", "null"] },
+          "tipo_proceso": { "enum": ["oposicion", "concurso", "concurso-oposicion", "bolsa", "otro"] },
+          "num_plazas": { "type": ["integer", "null"] },
+          "plazo_dias": { "type": ["integer", "null"] },
+          "tipo_dias": { "enum": ["habiles", "naturales", null] },
+          "fecha_publicacion": { "type": "string", "format": "date" },
+          "fecha_limite": { "type": ["string", "null"], "format": "date", "description": "Estimada: publicación + plazo (hábiles sin contar festivos). Comprobar siempre en la convocatoria." },
+          "fecha_limite_estimada": { "type": "boolean" },
+          "estado": { "enum": ["abierto", "cerrado", "desconocido"] },
+          "url_oficial": { "type": "string", "format": "uri" },
+          "fuente": { "type": "string" },
+          "coincidencia_cv": { "type": "string", "description": "Texto que relaciona la convocatoria con la Comunitat Valenciana" },
+          "extraido_el": { "type": "string", "format": "date-time" }
+        }
+      }
+    }
+  }
+}

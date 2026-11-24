@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Plazas públicas · Comunitat Valenciana</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="cabecera">
+    <div class="contenedor">
+      <h1>Plazas públicas en la Comunitat Valenciana</h1>
+      <p class="sub">Convocatorias de empleo público publicadas en el BOE. <span id="actualizado"></span></p>
+    </div>
+  </header>
+
+  <main class="contenedor">
+    <section class="resumen" aria-label="Resumen" id="resumen"></section>
+
+    <section class="filtros" aria-label="Filtros">
+      <label class="campo ancho">Buscar
+        <input type="search" id="q" placeholder="Organismo, cuerpo, municipio…">
+      </label>
+      <label class="campo">Provincia
+        <select id="f-provincia"><option value="">Todas</option></select>
+      </label>
+      <label class="campo">Ámbito
+        <select id="f-ambito"><option value="">Todos</option></select>
+      </label>
+      <label class="campo">Tipo
+        <select id="f-tipo"><option value="">Todos</option></select>
+      </label>
+      <label class="campo">Estado
+        <select id="f-estado">
+          <option value="abierto">Abiertas</option>
+          <option value="">Todas</option>
+          <option value="cerrado">Cerradas</option>
+          <option value="desconocido">Plazo desconocido</option>
+        </select>
+      </label>
+      <label class="campo">Orden
+        <select id="orden">
+          <option value="cierre">Cierran antes</option>
+          <option value="reciente">Más recientes</option>
+          <option value="plazas">Más plazas</option>
+        </select>
+      </label>
+    </section>
+
+    <p id="contador" class="contador" aria-live="polite"></p>
+    <ul id="lista" class="lista"></ul>
+    <p id="vacio" class="vacio" hidden>No hay convocatorias con estos filtros.</p>
+    <p id="error" class="vacio" hidden></p>
+  </main>
+
+  <footer class="pie">
+    <div class="contenedor">
+      Información orientativa extraída automáticamente. Las fechas límite son <strong>estimadas</strong> (no se descuentan festivos):
+      comprueba siempre el plazo y las bases en la publicación oficial.
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
