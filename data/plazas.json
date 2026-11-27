@@ -1,6 +1,101 @@
 {
-  "actualizado": "2026-11-26T16:48:36+00:00",
+  "actualizado": "2026-11-27T16:33:53+00:00",
   "plazas": [
+    {
+      "id": "boe-BOE-A-2026-24962",
+      "titulo": "Resolución de 23 de noviembre de 2026, del Ayuntamiento de Crevillent (Alicante/Alacant), referente a la convocatoria para proveer varias plazas.",
+      "organismo": "Administración Local",
+      "ambito": "local",
+      "provincia": "Alicante",
+      "tipo_proceso": "otro",
+      "num_plazas": 3,
+      "plazo_dias": 20,
+      "tipo_dias": "habiles",
+      "fecha_publicacion": "2026-11-27",
+      "fecha_limite": "2026-12-25",
+      "fecha_limite_estimada": true,
+      "estado": "abierto",
+      "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24962",
+      "fuente": "BOE",
+      "coincidencia_cv": "Alicante",
+      "extraido_el": "2026-11-27T16:33:43+00:00"
+    },
+    {
+      "id": "boe-BOE-A-2026-24967",
+      "titulo": "Resolución de 23 de noviembre de 2026, del Ayuntamiento de Alfafar (Valencia/València), referente a la convocatoria para proveer una plaza.",
+      "organismo": "Administración Local",
+      "ambito": "local",
+      "provincia": "Valencia",
+      "tipo_proceso": "otro",
+      "num_plazas": null,
+      "plazo_dias": 10,
+      "tipo_dias": "habiles",
+      "fecha_publicacion": "2026-11-27",
+      "fecha_limite": "2026-12-11",
+      "fecha_limite_estimada": true,
+      "estado": "abierto",
+      "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24967",
+      "fuente": "BOE",
+      "coincidencia_cv": "Valencia",
+      "extraido_el": "2026-11-27T16:33:43+00:00"
+    },
+    {
+      "id": "boe-BOE-A-2026-24968",
+      "titulo": "Resolución de 23 de noviembre de 2026, del Ayuntamiento de Rafelguaraf (Valencia/València), referente a la convocatoria para proveer una plaza.",
+      "organismo": "Administración Local",
+      "ambito": "local",
+      "provincia": "Valencia",
+      "tipo_proceso": "otro",
+      "num_plazas": null,
+      "plazo_dias": 20,
+      "tipo_dias": "habiles",
+      "fecha_publicacion": "2026-11-27",
+      "fecha_limite": "2026-12-25",
+      "fecha_limite_estimada": true,
+      "estado": "abierto",
+      "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24968",
+      "fuente": "BOE",
+      "coincidencia_cv": "Valencia",
+      "extraido_el": "2026-11-27T16:33:43+00:00"
+    },
+    {
+      "id": "boe-BOE-A-2026-24970",
+      "titulo": "Resolución de 23 de noviembre de 2026, del Ayuntamiento de San Antonio de Benagéber (Valencia/València), referente a la convocatoria para proveer una plaza.",
+      "organismo": "Administración Local",
+      "ambito": "local",
+      "provincia": "Valencia",
+      "tipo_proceso": "otro",
+      "num_plazas": null,
+      "plazo_dias": 20,
+      "tipo_dias": "habiles",
+      "fecha_publicacion": "2026-11-27",
+      "fecha_limite": "2026-12-25",
+      "fecha_limite_estimada": true,
+      "estado": "abierto",
+      "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24970",
+      "fuente": "BOE",
+      "coincidencia_cv": "Valencia",
+      "extraido_el": "2026-11-27T16:33:43+00:00"
+    },
+    {
+      "id": "boe-BOE-A-2026-24971",
+      "titulo": "Resolución de 23 de noviembre de 2026, del Ayuntamiento de Manises (Valencia/València), referente a la convocatoria para proveer varias plazas.",
+      "organismo": "Administración Local",
+      "ambito": "local",
+      "provincia": "Valencia",
+      "tipo_proceso": "otro",
+      "num_plazas": 2,
+      "plazo_dias": 10,
+      "tipo_dias": "habiles",
+      "fecha_publicacion": "2026-11-27",
+      "fecha_limite": "2026-12-11",
+      "fecha_limite_estimada": true,
+      "estado": "abierto",
+      "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24971",
+      "fuente": "BOE",
+      "coincidencia_cv": "Valencia",
+      "extraido_el": "2026-11-27T16:33:43+00:00"
+    },
     {
       "id": "boe-BOE-A-2026-24856",
       "titulo": "Resolución de 30 de octubre de 2026, del Ayuntamiento de Petrer (Alicante/Alacant), referente a la convocatoria para proveer una plaza.",
@@ -18,7 +113,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24856",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:48:28+00:00"
+      "extraido_el": "2026-11-27T16:33:35+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24857",
@@ -37,7 +132,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24857",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:48:28+00:00"
+      "extraido_el": "2026-11-27T16:33:35+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24861",
@@ -56,7 +151,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24861",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:48:28+00:00"
+      "extraido_el": "2026-11-27T16:33:35+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24877",
@@ -75,7 +170,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24877",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:48:28+00:00"
+      "extraido_el": "2026-11-27T16:33:35+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24745",
@@ -94,7 +189,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24745",
       "fuente": "BOE",
       "coincidencia_cv": "Castellón",
-      "extraido_el": "2026-11-26T16:48:19+00:00"
+      "extraido_el": "2026-11-27T16:33:27+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24747",
@@ -113,7 +208,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24747",
       "fuente": "BOE",
       "coincidencia_cv": "Torrevieja",
-      "extraido_el": "2026-11-26T16:48:19+00:00"
+      "extraido_el": "2026-11-27T16:33:27+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24748",
@@ -132,7 +227,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24748",
       "fuente": "BOE",
       "coincidencia_cv": "Torrevieja",
-      "extraido_el": "2026-11-26T16:48:19+00:00"
+      "extraido_el": "2026-11-27T16:33:27+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24751",
@@ -151,7 +246,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24751",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:48:19+00:00"
+      "extraido_el": "2026-11-27T16:33:27+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24637",
@@ -170,7 +265,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24637",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:48:06+00:00"
+      "extraido_el": "2026-11-27T16:33:15+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24639",
@@ -189,7 +284,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24639",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:48:06+00:00"
+      "extraido_el": "2026-11-27T16:33:15+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24640",
@@ -208,7 +303,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24640",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:48:06+00:00"
+      "extraido_el": "2026-11-27T16:33:15+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24643",
@@ -227,7 +322,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24643",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:48:06+00:00"
+      "extraido_el": "2026-11-27T16:33:15+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24644",
@@ -246,7 +341,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24644",
       "fuente": "BOE",
       "coincidencia_cv": "Gandia",
-      "extraido_el": "2026-11-26T16:48:06+00:00"
+      "extraido_el": "2026-11-27T16:33:15+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24654",
@@ -265,7 +360,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24654",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:48:06+00:00"
+      "extraido_el": "2026-11-27T16:33:15+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24656",
@@ -284,7 +379,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24656",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:48:06+00:00"
+      "extraido_el": "2026-11-27T16:33:15+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24544",
@@ -303,7 +398,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24544",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:47:57+00:00"
+      "extraido_el": "2026-11-27T16:33:07+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24545",
@@ -322,7 +417,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24545",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:47:57+00:00"
+      "extraido_el": "2026-11-27T16:33:07+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24548",
@@ -341,7 +436,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24548",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:47:57+00:00"
+      "extraido_el": "2026-11-27T16:33:07+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24551",
@@ -360,7 +455,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24551",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:47:57+00:00"
+      "extraido_el": "2026-11-27T16:33:07+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24463",
@@ -379,7 +474,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24463",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:47:48+00:00"
+      "extraido_el": "2026-11-27T16:33:00+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24465",
@@ -398,7 +493,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24465",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:47:48+00:00"
+      "extraido_el": "2026-11-27T16:33:00+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24467",
@@ -417,7 +512,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24467",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:47:48+00:00"
+      "extraido_el": "2026-11-27T16:33:00+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24473",
@@ -436,7 +531,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24473",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:47:48+00:00"
+      "extraido_el": "2026-11-27T16:33:00+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24339",
@@ -455,7 +550,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24339",
       "fuente": "BOE",
       "coincidencia_cv": "COMUNITAT VALENCIANA",
-      "extraido_el": "2026-11-26T16:47:45+00:00"
+      "extraido_el": "2026-11-27T16:32:56+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24219",
@@ -474,7 +569,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24219",
       "fuente": "BOE",
       "coincidencia_cv": "València",
-      "extraido_el": "2026-11-26T16:47:37+00:00"
+      "extraido_el": "2026-11-27T16:32:50+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24224",
@@ -493,7 +588,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24224",
       "fuente": "BOE",
       "coincidencia_cv": "Castellón",
-      "extraido_el": "2026-11-26T16:47:37+00:00"
+      "extraido_el": "2026-11-27T16:32:50+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24243",
@@ -512,7 +607,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24243",
       "fuente": "BOE",
       "coincidencia_cv": "Universitat de València",
-      "extraido_el": "2026-11-26T16:47:37+00:00"
+      "extraido_el": "2026-11-27T16:32:50+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24151",
@@ -531,7 +626,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24151",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:47:22+00:00"
+      "extraido_el": "2026-11-27T16:32:36+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24155",
@@ -550,7 +645,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24155",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:47:22+00:00"
+      "extraido_el": "2026-11-27T16:32:36+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24156",
@@ -569,7 +664,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24156",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:47:22+00:00"
+      "extraido_el": "2026-11-27T16:32:36+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24172",
@@ -588,7 +683,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24172",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:47:22+00:00"
+      "extraido_el": "2026-11-27T16:32:36+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24174",
@@ -607,7 +702,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24174",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:47:22+00:00"
+      "extraido_el": "2026-11-27T16:32:36+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24176",
@@ -626,7 +721,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24176",
       "fuente": "BOE",
       "coincidencia_cv": "Jaume I",
-      "extraido_el": "2026-11-26T16:47:22+00:00"
+      "extraido_el": "2026-11-27T16:32:36+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24177",
@@ -645,7 +740,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24177",
       "fuente": "BOE",
       "coincidencia_cv": "Jaume I",
-      "extraido_el": "2026-11-26T16:47:22+00:00"
+      "extraido_el": "2026-11-27T16:32:36+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24178",
@@ -664,7 +759,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24178",
       "fuente": "BOE",
       "coincidencia_cv": "Jaume I",
-      "extraido_el": "2026-11-26T16:47:22+00:00"
+      "extraido_el": "2026-11-27T16:32:36+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24067",
@@ -683,7 +778,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24067",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:47:14+00:00"
+      "extraido_el": "2026-11-27T16:32:29+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24079",
@@ -702,7 +797,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24079",
       "fuente": "BOE",
       "coincidencia_cv": "Castelló de la Plana",
-      "extraido_el": "2026-11-26T16:47:14+00:00"
+      "extraido_el": "2026-11-27T16:32:29+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24090",
@@ -721,7 +816,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24090",
       "fuente": "BOE",
       "coincidencia_cv": "Universitat de València",
-      "extraido_el": "2026-11-26T16:47:14+00:00"
+      "extraido_el": "2026-11-27T16:32:29+00:00"
     },
     {
       "id": "boe-BOE-A-2026-24093",
@@ -740,7 +835,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24093",
       "fuente": "BOE",
       "coincidencia_cv": "Universidad de Alicante",
-      "extraido_el": "2026-11-26T16:47:14+00:00"
+      "extraido_el": "2026-11-27T16:32:29+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23928",
@@ -759,7 +854,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23928",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:47:07+00:00"
+      "extraido_el": "2026-11-27T16:32:23+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23933",
@@ -778,7 +873,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23933",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:47:07+00:00"
+      "extraido_el": "2026-11-27T16:32:23+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23947",
@@ -797,7 +892,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23947",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:47:07+00:00"
+      "extraido_el": "2026-11-27T16:32:23+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23855",
@@ -816,7 +911,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23855",
       "fuente": "BOE",
       "coincidencia_cv": "Alacant",
-      "extraido_el": "2026-11-26T16:47:00+00:00"
+      "extraido_el": "2026-11-27T16:32:16+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23860",
@@ -835,7 +930,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23860",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:47:00+00:00"
+      "extraido_el": "2026-11-27T16:32:16+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23864",
@@ -854,7 +949,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23864",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:47:00+00:00"
+      "extraido_el": "2026-11-27T16:32:16+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23701",
@@ -869,11 +964,11 @@
       "fecha_publicacion": "2026-11-12",
       "fecha_limite": "2026-11-26",
       "fecha_limite_estimada": true,
-      "estado": "abierto",
+      "estado": "cerrado",
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23701",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:46:51+00:00"
+      "extraido_el": "2026-11-27T16:32:08+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23704",
@@ -892,7 +987,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23704",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:46:51+00:00"
+      "extraido_el": "2026-11-27T16:32:08+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23722",
@@ -907,11 +1002,11 @@
       "fecha_publicacion": "2026-11-12",
       "fecha_limite": "2026-11-26",
       "fecha_limite_estimada": true,
-      "estado": "abierto",
+      "estado": "cerrado",
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23722",
       "fuente": "BOE",
       "coincidencia_cv": "Universitat de València",
-      "extraido_el": "2026-11-26T16:46:51+00:00"
+      "extraido_el": "2026-11-27T16:32:08+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23624",
@@ -930,7 +1025,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23624",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:46:43+00:00"
+      "extraido_el": "2026-11-27T16:32:01+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23630",
@@ -949,7 +1044,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23630",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:46:43+00:00"
+      "extraido_el": "2026-11-27T16:32:01+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23633",
@@ -968,7 +1063,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23633",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:46:43+00:00"
+      "extraido_el": "2026-11-27T16:32:01+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23635",
@@ -987,7 +1082,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23635",
       "fuente": "BOE",
       "coincidencia_cv": "Castellón",
-      "extraido_el": "2026-11-26T16:46:43+00:00"
+      "extraido_el": "2026-11-27T16:32:01+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23551",
@@ -1006,7 +1101,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23551",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:46:29+00:00"
+      "extraido_el": "2026-11-27T16:31:49+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23552",
@@ -1025,7 +1120,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23552",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:46:29+00:00"
+      "extraido_el": "2026-11-27T16:31:49+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23558",
@@ -1044,7 +1139,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23558",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:46:29+00:00"
+      "extraido_el": "2026-11-27T16:31:49+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23561",
@@ -1063,7 +1158,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23561",
       "fuente": "BOE",
       "coincidencia_cv": "Castellón",
-      "extraido_el": "2026-11-26T16:46:29+00:00"
+      "extraido_el": "2026-11-27T16:31:49+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23582",
@@ -1082,7 +1177,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23582",
       "fuente": "BOE",
       "coincidencia_cv": "Universitat de València",
-      "extraido_el": "2026-11-26T16:46:29+00:00"
+      "extraido_el": "2026-11-27T16:31:49+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23587",
@@ -1101,7 +1196,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23587",
       "fuente": "BOE",
       "coincidencia_cv": "Jaume I",
-      "extraido_el": "2026-11-26T16:46:29+00:00"
+      "extraido_el": "2026-11-27T16:31:49+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23588",
@@ -1120,7 +1215,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23588",
       "fuente": "BOE",
       "coincidencia_cv": "Jaume I",
-      "extraido_el": "2026-11-26T16:46:29+00:00"
+      "extraido_el": "2026-11-27T16:31:49+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23424",
@@ -1139,7 +1234,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23424",
       "fuente": "BOE",
       "coincidencia_cv": "València",
-      "extraido_el": "2026-11-26T16:46:04+00:00"
+      "extraido_el": "2026-11-27T16:31:26+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23427",
@@ -1158,7 +1253,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23427",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:46:04+00:00"
+      "extraido_el": "2026-11-27T16:31:26+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23428",
@@ -1177,7 +1272,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23428",
       "fuente": "BOE",
       "coincidencia_cv": "València",
-      "extraido_el": "2026-11-26T16:46:04+00:00"
+      "extraido_el": "2026-11-27T16:31:26+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23429",
@@ -1196,7 +1291,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23429",
       "fuente": "BOE",
       "coincidencia_cv": "València",
-      "extraido_el": "2026-11-26T16:46:04+00:00"
+      "extraido_el": "2026-11-27T16:31:26+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23437",
@@ -1215,7 +1310,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23437",
       "fuente": "BOE",
       "coincidencia_cv": "Castellón",
-      "extraido_el": "2026-11-26T16:46:04+00:00"
+      "extraido_el": "2026-11-27T16:31:26+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23438",
@@ -1234,7 +1329,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23438",
       "fuente": "BOE",
       "coincidencia_cv": "Castellón",
-      "extraido_el": "2026-11-26T16:46:04+00:00"
+      "extraido_el": "2026-11-27T16:31:26+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23439",
@@ -1253,7 +1348,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23439",
       "fuente": "BOE",
       "coincidencia_cv": "Alcoy",
-      "extraido_el": "2026-11-26T16:46:04+00:00"
+      "extraido_el": "2026-11-27T16:31:26+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23440",
@@ -1272,7 +1367,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23440",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:46:04+00:00"
+      "extraido_el": "2026-11-27T16:31:26+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23441",
@@ -1291,7 +1386,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23441",
       "fuente": "BOE",
       "coincidencia_cv": "Alacant",
-      "extraido_el": "2026-11-26T16:46:04+00:00"
+      "extraido_el": "2026-11-27T16:31:26+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23445",
@@ -1310,7 +1405,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23445",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:46:04+00:00"
+      "extraido_el": "2026-11-27T16:31:26+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23447",
@@ -1329,7 +1424,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23447",
       "fuente": "BOE",
       "coincidencia_cv": "Castellón",
-      "extraido_el": "2026-11-26T16:46:04+00:00"
+      "extraido_el": "2026-11-27T16:31:26+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23455",
@@ -1348,7 +1443,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23455",
       "fuente": "BOE",
       "coincidencia_cv": "Castellón",
-      "extraido_el": "2026-11-26T16:46:04+00:00"
+      "extraido_el": "2026-11-27T16:31:26+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23468",
@@ -1367,7 +1462,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23468",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:46:04+00:00"
+      "extraido_el": "2026-11-27T16:31:26+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23471",
@@ -1386,7 +1481,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23471",
       "fuente": "BOE",
       "coincidencia_cv": "Universidad de Alicante",
-      "extraido_el": "2026-11-26T16:46:04+00:00"
+      "extraido_el": "2026-11-27T16:31:26+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23355",
@@ -1405,7 +1500,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23355",
       "fuente": "BOE",
       "coincidencia_cv": "Castellón",
-      "extraido_el": "2026-11-26T16:46:00+00:00"
+      "extraido_el": "2026-11-27T16:31:23+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23203",
@@ -1424,7 +1519,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23203",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:45:52+00:00"
+      "extraido_el": "2026-11-27T16:31:04+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23204",
@@ -1443,7 +1538,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23204",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:45:52+00:00"
+      "extraido_el": "2026-11-27T16:31:04+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23205",
@@ -1462,7 +1557,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23205",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:45:52+00:00"
+      "extraido_el": "2026-11-27T16:31:04+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23144",
@@ -1481,7 +1576,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23144",
       "fuente": "BOE",
       "coincidencia_cv": "COMUNITAT VALENCIANA",
-      "extraido_el": "2026-11-26T16:45:46+00:00"
+      "extraido_el": "2026-11-27T16:30:59+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23153",
@@ -1500,7 +1595,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23153",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:45:46+00:00"
+      "extraido_el": "2026-11-27T16:30:59+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23036",
@@ -1519,7 +1614,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23036",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:45:36+00:00"
+      "extraido_el": "2026-11-27T16:30:50+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23037",
@@ -1538,7 +1633,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23037",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:45:36+00:00"
+      "extraido_el": "2026-11-27T16:30:50+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23049",
@@ -1557,7 +1652,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23049",
       "fuente": "BOE",
       "coincidencia_cv": "Castellón",
-      "extraido_el": "2026-11-26T16:45:36+00:00"
+      "extraido_el": "2026-11-27T16:30:50+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23052",
@@ -1576,7 +1671,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23052",
       "fuente": "BOE",
       "coincidencia_cv": "Alacant",
-      "extraido_el": "2026-11-26T16:45:36+00:00"
+      "extraido_el": "2026-11-27T16:30:50+00:00"
     },
     {
       "id": "boe-BOE-A-2026-23056",
@@ -1595,7 +1690,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23056",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:45:36+00:00"
+      "extraido_el": "2026-11-27T16:30:50+00:00"
     },
     {
       "id": "boe-BOE-A-2026-22930",
@@ -1614,7 +1709,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22930",
       "fuente": "BOE",
       "coincidencia_cv": "Alacant",
-      "extraido_el": "2026-11-26T16:45:26+00:00"
+      "extraido_el": "2026-11-27T16:30:41+00:00"
     },
     {
       "id": "boe-BOE-A-2026-22932",
@@ -1633,7 +1728,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22932",
       "fuente": "BOE",
       "coincidencia_cv": "Orihuela",
-      "extraido_el": "2026-11-26T16:45:26+00:00"
+      "extraido_el": "2026-11-27T16:30:41+00:00"
     },
     {
       "id": "boe-BOE-A-2026-22936",
@@ -1652,7 +1747,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22936",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:45:26+00:00"
+      "extraido_el": "2026-11-27T16:30:41+00:00"
     },
     {
       "id": "boe-BOE-A-2026-22945",
@@ -1671,7 +1766,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22945",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:45:26+00:00"
+      "extraido_el": "2026-11-27T16:30:41+00:00"
     },
     {
       "id": "boe-BOE-A-2026-22949",
@@ -1690,7 +1785,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22949",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:45:26+00:00"
+      "extraido_el": "2026-11-27T16:30:41+00:00"
     },
     {
       "id": "boe-BOE-A-2026-22821",
@@ -1709,7 +1804,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22821",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:45:17+00:00"
+      "extraido_el": "2026-11-27T16:30:33+00:00"
     },
     {
       "id": "boe-BOE-A-2026-22834",
@@ -1728,7 +1823,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22834",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:45:17+00:00"
+      "extraido_el": "2026-11-27T16:30:33+00:00"
     },
     {
       "id": "boe-BOE-A-2026-22835",
@@ -1747,7 +1842,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22835",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:45:17+00:00"
+      "extraido_el": "2026-11-27T16:30:33+00:00"
     },
     {
       "id": "boe-BOE-A-2026-22836",
@@ -1766,7 +1861,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22836",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:45:17+00:00"
+      "extraido_el": "2026-11-27T16:30:33+00:00"
     },
     {
       "id": "boe-BOE-A-2026-22745",
@@ -1785,7 +1880,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22745",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:45:11+00:00"
+      "extraido_el": "2026-11-27T16:30:29+00:00"
     },
     {
       "id": "boe-BOE-A-2026-22746",
@@ -1804,7 +1899,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22746",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:45:11+00:00"
+      "extraido_el": "2026-11-27T16:30:29+00:00"
     },
     {
       "id": "boe-BOE-A-2026-22655",
@@ -1823,7 +1918,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22655",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:45:04+00:00"
+      "extraido_el": "2026-11-27T16:30:23+00:00"
     },
     {
       "id": "boe-BOE-A-2026-22656",
@@ -1842,7 +1937,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22656",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:45:04+00:00"
+      "extraido_el": "2026-11-27T16:30:23+00:00"
     },
     {
       "id": "boe-BOE-A-2026-22658",
@@ -1857,11 +1952,11 @@
       "fecha_publicacion": "2026-10-29",
       "fecha_limite": "2026-11-26",
       "fecha_limite_estimada": true,
-      "estado": "abierto",
+      "estado": "cerrado",
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22658",
       "fuente": "BOE",
       "coincidencia_cv": "Castellón",
-      "extraido_el": "2026-11-26T16:45:04+00:00"
+      "extraido_el": "2026-11-27T16:30:23+00:00"
     },
     {
       "id": "boe-BOE-A-2026-22571",
@@ -1880,7 +1975,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22571",
       "fuente": "BOE",
       "coincidencia_cv": "Valencia",
-      "extraido_el": "2026-11-26T16:44:58+00:00"
+      "extraido_el": "2026-11-27T16:30:18+00:00"
     },
     {
       "id": "boe-BOE-A-2026-22574",
@@ -1899,7 +1994,7 @@
       "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22574",
       "fuente": "BOE",
       "coincidencia_cv": "Alicante",
-      "extraido_el": "2026-11-26T16:44:58+00:00"
+      "extraido_el": "2026-11-27T16:30:18+00:00"
     },
     {
       "id": "boe-BOE-A-2026-22482",
